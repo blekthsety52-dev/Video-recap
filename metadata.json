@@ -1,0 +1,6 @@
+{
+  "name": "Recap Video Generator",
+  "description": "Extract clips from video files, auto-detect chorus highlights, apply crossfades and subtitles, and generate polished recap videos.",
+  "permissions": [],
+  "capabilities": []
+}
